@@ -8,7 +8,7 @@
 - Import from Postman / Insomnia / cURL
 
 ## Screenshot
-
+![Get API Dashboard](/screenshots/GetAPI_Dashboard_v1.png)
 
 ## Have a problem?
 
